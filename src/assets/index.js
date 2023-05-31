@@ -32,7 +32,8 @@ import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 import Food from "./Food.png";
 import Amazon from "./Amazon.png";
-import Spotify from "./Spotify.png"
+import Spotify from "./Spotify.png";
+import Shadab from "./Shadab.jpg"
 
 export {
   logo,
@@ -65,5 +66,6 @@ export {
   tripguide,
   Food,
   Amazon,
-  Spotify
+  Spotify,
+  Shadab
 };
