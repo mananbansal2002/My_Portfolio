@@ -30,6 +30,9 @@ import tesla from "./company/tesla.png";
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+import Food from "./Food.png";
+import Amazon from "./Amazon.png";
+import Spotify from "./Spotify.png"
 
 export {
   logo,
@@ -60,4 +63,7 @@ export {
   carrent,
   jobit,
   tripguide,
+  Food,
+  Amazon,
+  Spotify
 };
