@@ -35,6 +35,9 @@ import Amazon from "./Amazon.png";
 import Spotify from "./Spotify.png";
 import Shadab from "./Shadab.jpg"
 
+import Dorfie from "./Dorfie.jpg"
+import FanDen from "./FanDen.jpg"
+
 export {
   logo,
   backend,
@@ -67,5 +70,7 @@ export {
   Food,
   Amazon,
   Spotify,
-  Shadab
+  Shadab,
+  Dorfie,
+  FanDen,
 };

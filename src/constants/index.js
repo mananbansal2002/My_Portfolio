@@ -21,7 +21,9 @@ import {
     Food,
     Amazon,
     threejs,
-    Shadab
+    Shadab,
+    Dorfie
+    ,FanDen
   } from "../assets";
   
   export const navLinks = [
@@ -134,7 +136,7 @@ import {
        {
       title: "Full-Stack Developer Intern",
       company_name: "Fan Den India",
-      icon: gdsc,
+      icon: FanDen,
       iconBg: "#383E56",
       date: "June 2023 - July 2023",
       points: [
@@ -151,7 +153,7 @@ import {
        {
       title: "Full-Stack Developer Intern",
       company_name: "Dorfie Labs",
-      icon: gdsc,
+      icon: Dorfie,
       iconBg: "#383E56",
       date: "July 2023 - October 2023",
       points: [
